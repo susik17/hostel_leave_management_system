@@ -1,0 +1,24 @@
+   cd "c:\Users\Acer\Desktop\priyanga project\backend"
+   .\venv\Scripts\python.exe -m uvicorn main:app --port 8000
+
+https://myaccount.google.com/apppasswords
+
+SELECT * FROM public.leave_requests
+ORDER BY id ASC 
+
+
+Created fullproject.md in your project root with end-to-end documentation. It covers:
+Project overview – Roles (student, parent, warden) and overall flow
+Tech stack – React/Vite, FastAPI, PostgreSQL, Twilio, Gmail SMTP
+End-to-end flow diagram – Request flow from student to final approval
+Step-by-step flow – All 7 steps with brief explanations
+Twilio WhatsApp – Setup, outgoing/incoming messages, webhook payload
+Ngrok – Purpose, setup, auth, request flow
+Email SMTP – Gmail App Password setup, email types, parent approve → warden flow
+Project structure – Main files and folders
+How to run – Backend, frontend, ngrok
+Configuration summary – .env variables
+Troubleshooting – Common issues and fixes
+Status flow – PARENT_PENDING → WARDEN_PENDING → Approved/Rejected
+
+c:\Users\Acer\Desktop\priyanga project\fullproject.md
