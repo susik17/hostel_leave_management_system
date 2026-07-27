@@ -3,7 +3,7 @@
 
 
 # 1. Big Picture
-![Git Workflow](../images/git_flow01.png)
+![Git Workflow](git_flow01.png)
 ---
 
 # 2. Git vs GitHub
